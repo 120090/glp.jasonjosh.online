@@ -10,9 +10,9 @@ const CONFIG = {
     // 🔗 Links de Checkout dos Botões
     // Tracking (UTMs, subid, fbclid etc.) é responsabilidade do UTMify — ele
     // reescreve os hrefs automaticamente no carregamento da página.
-    linkPote2: "https://magazinetype2.online/b?p=GLPPT2V1&b=132&fid=472&fnid=2&pfnid=1&pg=8395&aff_id=0000000",
-    linkPote6: "https://magazinetype2.online/b?p=GLPPT6V1&b=132&fid=472&fnid=2&pfnid=1&pg=8395&aff_id=0000000",
-    linkPote3: "https://magazinetype2.online/b?p=GLPPT3V1&b=132&fid=472&fnid=2&pfnid=1&pg=8395&aff_id=0000000"
+    linkPote2: "https://magazinetype2.online/b?p=GLPPT2V1&b=132&fid=472&fnid=2&pfnid=1&pg=8395&aff_id=279698",
+    linkPote6: "https://magazinetype2.online/b?p=GLPPT6V1&b=132&fid=472&fnid=2&pfnid=1&pg=8395&aff_id=279698",
+    linkPote3: "https://magazinetype2.online/b?p=GLPPT3V1&b=132&fid=472&fnid=2&pfnid=1&pg=8395&aff_id=279698"
 };
 
 // =====================================================================
